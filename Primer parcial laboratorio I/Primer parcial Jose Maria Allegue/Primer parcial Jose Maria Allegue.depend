@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1494280918 source:d:\primer parcial laboratorio i\primer parcial jose maria allegue\lib.c
+
+1494281696 source:d:\primer parcial laboratorio i\primer parcial jose maria allegue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
+1494281141 d:\primer parcial laboratorio i\primer parcial jose maria allegue\lib.h
+
