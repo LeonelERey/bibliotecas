@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1493168294 source:d:\dana c\clase13\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1493168159 d:\dana c\clase13\funciones.h
+
+1493168118 source:d:\dana c\clase13\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+

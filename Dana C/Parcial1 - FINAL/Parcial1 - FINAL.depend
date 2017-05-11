@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1481069334 source:c:\users\patry\desktop\parcial1 - final\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	<time.h>
+
+1481069272 c:\users\patry\desktop\parcial1 - final\funciones.h
+
+1481069169 source:c:\users\patry\desktop\parcial1 - final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1481069424 source:e:\parcial1 - final\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	<time.h>
+
+1481069274 e:\parcial1 - final\funciones.h
+
+1481069170 source:e:\parcial1 - final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1494199320 source:d:\parcial1 - final\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	<time.h>
+
+1494199600 d:\parcial1 - final\funciones.h
+
+1481069170 source:d:\parcial1 - final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1494290938 source:d:\dana c\parcial1 - final\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	<time.h>
+
+1494291665 d:\dana c\parcial1 - final\funciones.h
+
+1494291144 source:d:\dana c\parcial1 - final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+	<conio.h>
+	<ctype.h>
+

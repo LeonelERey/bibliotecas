@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491353251 source:d:\dana c\clase6.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

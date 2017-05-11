@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1494197337 source:c:\users\patry\desktop\1erparcial_lab1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1494196712 c:\users\patry\desktop\1erparcial_lab1\funciones.h
+
+1494197435 source:c:\users\patry\desktop\1erparcial_lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1494282307 source:d:\dana c\1erparcial_lab1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1494282528 d:\dana c\1erparcial_lab1\funciones.h
+
+1494281593 source:d:\dana c\1erparcial_lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
